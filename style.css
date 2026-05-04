@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(253, 5, 179);
+}
+
+header{
+    background-color: rgb(243, 9, 231);
+}
+
+header div img{
+    width:300px;
+}
