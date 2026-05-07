@@ -6,6 +6,12 @@ header{
     background-color: rgb(243, 9, 231);
 }
 
-header div img{
-    width:300px;
+#cavalo {
+    width:400px;
+}
+
+.paragrafo{
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
 }
